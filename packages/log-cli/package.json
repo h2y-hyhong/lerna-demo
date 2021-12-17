@@ -27,6 +27,7 @@
     "url": "https://github.com/h2y-hyhong/lerna-demo/issues"
   },
   "dependencies": {
-    "commander": "^8.3.0"
+    "commander": "^8.3.0",
+    "log-core": "^1.0.0"
   }
 }

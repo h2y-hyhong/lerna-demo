@@ -1,6 +1,6 @@
 'use strict';
 
-const { program } = requrie("commander");
+const { program } = require("commander");
 const LogCore = require("log-core");
 
 program.action(cmd => LogCore());

@@ -25,8 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/h2y-hyhong/lerna-demo/issues"
-  },
-  "dependencies": {
-    "chalk": "^5.0.0"
   }
 }
