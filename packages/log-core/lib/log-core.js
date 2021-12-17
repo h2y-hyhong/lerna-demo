@@ -3,7 +3,7 @@
 const { red } = require("chalk");
 
 function logCore() {
-    console.log("Running Core !!!");
+    console.log(red("Running Core !!!!!!"));
 }
 
 module.exports = logCore;
