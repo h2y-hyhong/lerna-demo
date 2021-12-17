@@ -1,0 +1,32 @@
+{
+  "name": "log-core",
+  "version": "1.0.0",
+  "description": "log-core",
+  "keywords": [
+    "log"
+  ],
+  "author": "SF사업팀/홍하영 <hyhong@lsitc.com>",
+  "homepage": "https://github.com/h2y-hyhong/lerna-demo#readme",
+  "license": "ISC",
+  "main": "lib/log-core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h2y-hyhong/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/h2y-hyhong/lerna-demo/issues"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
