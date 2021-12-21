@@ -1,6 +1,6 @@
 {
   "name": "log-core-example",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "log-core",
   "keywords": [
     "log"
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/h2y-hyhong/lerna-demo/issues"
-  }
+  },
+  "gitHead": "2084359d604a3ac333dfbd649880f76b24fc8859"
 }
