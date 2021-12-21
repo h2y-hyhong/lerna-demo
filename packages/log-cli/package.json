@@ -1,6 +1,6 @@
 {
   "name": "log-cli-example",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "log-cli",
   "keywords": [
     "log"
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "commander": "^8.3.0",
-    "log-core": "^1.0.1"
+    "log-core-example": "^1.0.6"
   },
   "gitHead": "ef29de500cb998fbbdf0ff0a1c246d47e52b181b"
 }
